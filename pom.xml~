@@ -60,7 +60,7 @@
         </executions>
       </plugin>
       <plugin>
-        <artifactId>cloud-quarkus-wtobar</artifactId>
+        <artifactId>maven-compiler-plugin</artifactId>
         <version>${compiler-plugin.version}</version>
       </plugin>
       <plugin>
